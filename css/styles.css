@@ -108,6 +108,7 @@ h2:after {
 
 .area {
   min-height: 150px;
+  resize: none;
 }
 
 .btn {
